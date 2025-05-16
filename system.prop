@@ -1,0 +1,4 @@
+ro.display.series=Lenovo Tab M8 hd
+ro.boot.dynamic_partitions=true
+sys.usb.config=mtp,adb
+ro.board.platform=mt6761
