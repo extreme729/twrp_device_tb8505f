@@ -91,7 +91,7 @@ PLATFORM_VERSION := 16.1.0
 # TWRP Configuration
 
 # Common
-TW_DEVICE_VERSION := aa
+TW_DEVICE_VERSION := extreme729
 TW_THEME := portrait_hdpi
 TW_EXTRA_LANGUAGES := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
